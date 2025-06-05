@@ -8,3 +8,5 @@ ipykernel
 llama-index-embeddings-gemini
 streamlit
 duckduckgo-search
+
+-e .
